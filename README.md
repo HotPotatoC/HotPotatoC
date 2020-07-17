@@ -1,5 +1,7 @@
 ## Welcome to my profile ✋😳
 
+![just a gif](https://media1.tenor.com/images/5b58fdfcffa361c9eaadae3d17ea9f0e/tenor.gif)
+
 ```javascript
 new Github.Profile({
   name: 'HotPotatoC',
@@ -16,6 +18,6 @@ new Github.Profile({
 })
 ```
 
-![just a gif](https://media1.tenor.com/images/5b58fdfcffa361c9eaadae3d17ea9f0e/tenor.gif)
+[![HotPotatoC's github stats](https://github-readme-stats.vercel.app/api?username=HotPotatoC&show_icons=true&title_color=de3aff&icon_color=de3aff&text_color=718096&bg_color=0e0e10)](https://github.com/anuraghazra/github-readme-stats)
 
 Enjoy your stay 🙂
