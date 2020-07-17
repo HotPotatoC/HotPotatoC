@@ -10,7 +10,8 @@ new Github.Profile({
   skills: {
     languages: ['Javascript', 'TypeScript', 'Go', 'PHP', 'Python3', 'C'],
     frameworks: ['ExpressJs', 'VueJS', 'NuxtJS', 'ReactJS', 'Laravel'],
-    misc: ['NodeJS', 'Docker', 'WSL2']
+    databases: ['MySQL', 'PostgreSQL', 'MongoDB'],
+    misc: ['Docker', 'WSL2']
   }
 })
 ```
