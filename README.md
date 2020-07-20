@@ -10,7 +10,7 @@ new Github.Profile({
   website: 'juanwmv.netlify.com',
   avatarUrl: 'https://avatars1.githubusercontent.com/u/43059506?v=4',
   skills: {
-    languages: ['Javascript', 'TypeScript', 'Go', 'PHP', 'Python3', 'C'],
+    languages: ['Javascript', 'TypeScript', 'Go', 'PHP', 'Python3'],
     frameworks: ['ExpressJs', 'VueJS', 'NuxtJS', 'ReactJS', 'Laravel'],
     databases: ['MySQL', 'PostgreSQL', 'MongoDB'],
     misc: ['Docker', 'WSL2']
