@@ -5,7 +5,7 @@
 - 👀 My main languages are Javascript, TypeScript, Go and PHP
 - 👌 My main web frameworks are VueJS, NuxtJS, ExpressJS and Laravel
 - 🗄 Databases i mostly use are MySQL, PostgreSQL, MongoDB
-- 🚀 Currently Learning ReacrJS, C/C++ and Docker 🐳
+- 🚀 Currently Learning ReactJS, C/C++ and Docker 🐳
 - 😳 I am from Indonesia
 - 📫 You can contact me at juandotulung@gmail.com
 
