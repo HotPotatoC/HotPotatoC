@@ -9,6 +9,6 @@
 - 😳 I am from Indonesia
 - 📫 You can contact me at juandotulung@gmail.com
 
-[![HotPotatoC's github stats](https://github-readme-stats.vercel.app/api?username=HotPotatoC&show_icons=true&title_color=de3aff&icon_color=de3aff&text_color=718096&bg_color=0e0e10)](https://github.com/anuraghazra/github-readme-stats)
+[![HotPotatoC's github stats](https://github-readme-stats.vercel.app/api?username=HotPotatoC&show_icons=true&title_color=de3aff&icon_color=de3aff&text_color=718096)](https://github.com/anuraghazra/github-readme-stats)
 
 Enjoy your stay 🙂
