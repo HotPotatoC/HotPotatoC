@@ -3,6 +3,7 @@
 ![just a gif](https://media1.tenor.com/images/5b58fdfcffa361c9eaadae3d17ea9f0e/tenor.gif)
 
 - 😳 I am from Indonesia
+- 📚 Currently learning GraphQL and Nginx
 - 📫 You can contact me at juandotulung@gmail.com
 
 [![HotPotatoC's github stats](https://github-readme-stats.vercel.app/api?username=HotPotatoC&show_icons=true&title_color=de3aff&icon_color=de3aff&text_color=718096)](https://github.com/anuraghazra/github-readme-stats)
