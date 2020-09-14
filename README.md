@@ -5,3 +5,5 @@
 - 😳 I am from Indonesia
 - 💻 My main programming language is Javascript / TypeScript
 - 📫 You can contact me at juandotulung@gmail.com
+
+My Portfolio Site: [juanc](https://juanc.netlify.app)
