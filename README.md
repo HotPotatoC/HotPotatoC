@@ -5,6 +5,5 @@
 - 😳 I am from Indonesia
 - 💻 I am more of a Typescript and Golang developer
 - 📫 You can contact me at juandotulung@gmail.com
-- 🤓 Learning Computer Science
 
-My Portfolio Site: [juanc](https://juanc.me)
+Check out my personal website [here](https://juanc.me)
