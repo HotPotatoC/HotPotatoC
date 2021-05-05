@@ -6,6 +6,9 @@
 - 📫 You can contact me at juandotulung@gmail.com
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 Check out my personal website [here](https://juanc.me)
