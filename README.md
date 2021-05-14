@@ -7,8 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-YAML       1 min           █████████████░░░░░░░░░░░░   52.54 % 
-Markdown   1 min           ████████████░░░░░░░░░░░░░   47.46 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
