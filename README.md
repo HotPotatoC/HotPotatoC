@@ -7,7 +7,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+PowerShell   6 mins          ████████████████░░░░░░░░░   64.25 % 
+JSON         3 mins          █████████░░░░░░░░░░░░░░░░   35.75 % 
 ```
 <!--END_SECTION:waka-->
 
