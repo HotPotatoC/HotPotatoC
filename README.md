@@ -2,7 +2,6 @@
 
 - 😳 I am from Indonesia
 - 💻 I use Go and TypeScript
-- 📚 Currently learning Rust, Modern C++, and more
 - 📫 You can contact me at juandotulung@gmail.com
 
 <!--START_SECTION:waka-->
