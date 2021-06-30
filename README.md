@@ -6,11 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-JSX          36 mins         ████████▓░░░░░░░░░░░░░░░░   34.90 % 
-JavaScript   31 mins         ███████▒░░░░░░░░░░░░░░░░░   29.60 % 
-TypeScript   19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.32 % 
-YAML         8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Other        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
