@@ -2,7 +2,7 @@
 
 - 😳 I am from Indonesia
 - 💻 I use Go and TypeScript
-- 
+- 📖 Currently learning elixir
 - 📫 You can contact me at juandotulung@gmail.com
 
 <!--START_SECTION:waka-->
