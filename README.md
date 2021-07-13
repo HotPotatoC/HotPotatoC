@@ -2,6 +2,7 @@
 
 - 😳 I am from Indonesia
 - 💻 I use Go and TypeScript
+- 
 - 📫 You can contact me at juandotulung@gmail.com
 
 <!--START_SECTION:waka-->
