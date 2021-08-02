@@ -1,7 +1,6 @@
 ## Hello my name is Juan, Welcome! ✋
 
 - 😀 I am from Indonesia
-- 💻 I use Go and TypeScript
 - 📖 Currently learning elixir
 - 📫 You can contact me at juandotulung@gmail.com
 
@@ -16,6 +15,8 @@ Other    7 mins          ▒░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 Check out my personal website [here](https://juanc.me)
+
+My Toolbelt:
 
 [<img height="45" src="https://img.icons8.com/color/50/000000/golang.png"/>](https://icons8.com/icon/44442/golang)
 [<img height="45" src="https://img.icons8.com/color/48/26e07f/nodejs.png"/>](https://icons8.com/icon/54087/nodejs)
