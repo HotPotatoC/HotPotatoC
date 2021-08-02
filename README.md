@@ -1,6 +1,6 @@
-## Hello my name is Juan, Welcome! ✋😳
+## Hello my name is Juan, Welcome! ✋
 
-- 😳 I am from Indonesia
+- 😀 I am from Indonesia
 - 💻 I use Go and TypeScript
 - 📖 Currently learning elixir
 - 📫 You can contact me at juandotulung@gmail.com
