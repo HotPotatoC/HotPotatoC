@@ -6,8 +6,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 34 mins
-
 Python   18 mins         █████████████▓░░░░░░░░░░░   54.66 % 
 Go       15 mins         ███████████▒░░░░░░░░░░░░░   45.24 % 
 ```
