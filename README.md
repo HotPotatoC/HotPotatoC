@@ -7,7 +7,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   2 hrs 17 mins   █████████████████████████   100.00 %
+Python           2 hrs 17 mins   █████████████████████▒░░░   85.24 %
+PHP              13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+Go               9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
