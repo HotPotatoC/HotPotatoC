@@ -7,8 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C++      1 hr 33 mins    ██████████████▒░░░░░░░░░░   57.67 %
-Python   1 hr 8 mins     ██████████▓░░░░░░░░░░░░░░   42.33 %
+Python   1 hr 8 mins     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
