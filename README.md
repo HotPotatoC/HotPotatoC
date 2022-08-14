@@ -7,7 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go           11 hrs 27 mins  ██████████████████████░░░   87.72 %
+SQL          26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+JavaScript   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Bash         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Makefile     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+YAML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
