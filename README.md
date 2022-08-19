@@ -17,7 +17,7 @@ YAML         10 mins         ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-Check out my personal website [here](https://juanc.me)
+Check out my personal website [here](https://juanchristian.com)
 
 My Toolbelt:
 
