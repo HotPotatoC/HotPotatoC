@@ -1,7 +1,7 @@
 ## Hello my name is Juan, Welcome! ✋
 
 - 😀 I am from Indonesia
-- 📖 Currently focusing on college 😵
+- 📖 Currently learning Cassandra & ScyllaDB 🐙
 - 📫 You can contact me at juandotulung@gmail.com
 
 <!--START_SECTION:waka-->
