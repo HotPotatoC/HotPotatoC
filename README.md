@@ -7,7 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go         0 secs          ████████▓░░░░░░░░░░░░░░░░   34.54 %
+Makefile   0 secs          ████████▒░░░░░░░░░░░░░░░░   33.09 %
+Markdown   0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
+YAML       0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+TOML       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
 ```
 
 <!--END_SECTION:waka-->
