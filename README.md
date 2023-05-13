@@ -7,11 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python          2 hrs 19 mins   █████████████▒░░░░░░░░░░░   53.28 %
-YAML            53 mins         █████░░░░░░░░░░░░░░░░░░░░   20.35 %
-Markdown        24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
-Go              22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-Cassandra CQL   19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
