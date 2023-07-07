@@ -7,11 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           3 hrs 42 mins   ███████████████████▒░░░░░   77.38 %
-Markdown     41 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
-YAML         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
