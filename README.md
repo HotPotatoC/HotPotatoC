@@ -7,8 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           3 mins          ██████████████▒░░░░░░░░░░   57.83 %
-TypeScript   2 mins          ██████████▓░░░░░░░░░░░░░░   42.17 %
+Go   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
