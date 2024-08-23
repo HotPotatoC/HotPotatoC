@@ -7,10 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go               13 hrs 20 mins  ███████████████▓░░░░░░░░░   63.20 %
-PHP              7 hrs 33 mins   █████████░░░░░░░░░░░░░░░░   35.79 %
-Blade Template   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go               16 hrs 24 mins  ██████████████████▒░░░░░░   73.06 %
+PHP              3 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
+Blade Template   2 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
 ```
 
 <!--END_SECTION:waka-->
