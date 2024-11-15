@@ -7,11 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           1 hr 45 mins    ███████████████████▒░░░░░   77.79 %
-SQL          16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
-YAML         13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
