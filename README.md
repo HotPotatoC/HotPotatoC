@@ -7,8 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go     58 mins         ███████████████████▓░░░░░   78.10 %
-YAML   16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
