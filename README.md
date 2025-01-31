@@ -1,7 +1,6 @@
 ## Hello my name is Juan, Welcome! ✋
 
 - 😀 I am from Indonesia
-- 📖 Currently learning the cloud (AWS) ☁️
 - 📫 You can contact me at juandotulung@gmail.com
 
 <!--START_SECTION:waka-->
