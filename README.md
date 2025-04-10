@@ -6,11 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   26 mins         █████████████████░░░░░░░░   68.02 %
-TSConfig     6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
-JSON         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-CSS          1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Svelte       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
