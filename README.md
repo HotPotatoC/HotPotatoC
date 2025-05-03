@@ -6,11 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           1 hr 35 mins    █████████████▒░░░░░░░░░░░   53.96 %
-TypeScript   58 mins         ████████▒░░░░░░░░░░░░░░░░   33.29 %
-SQL          17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-Bash         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
