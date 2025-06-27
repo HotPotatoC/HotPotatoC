@@ -6,9 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   3 hrs 47 mins   ████████████████████░░░░░   80.16 %
-Go      41 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
-SQL     14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
