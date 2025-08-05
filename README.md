@@ -6,8 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX          1 hr 23 mins    █████████████████████████   99.64 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
